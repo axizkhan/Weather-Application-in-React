@@ -10,9 +10,6 @@ A simple and modern weather application built with React. This app allows users 
 - ⚡ Responsive UI
 - 🎨 Styled with custom CSS
 
-## Demo
-
-![Weather App Screenshot](src/LoginComponent/0.png)
 
 ## Getting Started
 
